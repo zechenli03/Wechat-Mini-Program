@@ -1,0 +1,1 @@
+<import src="../../components/video-detail$5ccd2d52" /><template is="video-detail$5ccd2d52" data="{{ ...$root['0'], $root }}"/>

@@ -1,0 +1,1 @@
+<import src="../../components/photo-edit$1083cbf9" /><template is="photo-edit$1083cbf9" data="{{ ...$root['0'], $root }}"/>

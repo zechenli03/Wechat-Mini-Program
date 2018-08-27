@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/today/main",
+    "pages/photo-edit/main",
+    "pages/selector/main",
+    "pages/share/main",
+    "pages/timeline/main",
+    "pages/tutorial/main",
+    "pages/user/main",
+    "pages/video-detail/main",
+    "pages/video-editor/main",
+    "pages/video-list/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#2d8cf0",
+    "navigationBarTextStyle": "#ffffff"
+  },
+  "tabBar": {
+    "color": "#80848f",
+    "selectedColor": "#2d8cf0",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "text": "今日",
+        "pagePath": "pages/today/main",
+        "iconPath": "static/tab/camera.png",
+        "selectedIconPath": "static/tab/camera_selected.png"
+      },
+      {
+        "text": "时光轴",
+        "pagePath": "pages/timeline/main",
+        "iconPath": "static/tab/view_day.png",
+        "selectedIconPath": "static/tab/view_day_selected.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/user/main",
+        "iconPath": "static/tab/person.png",
+        "selectedIconPath": "static/tab/person_selected.png"
+      }
+    ]
+  }
+}
